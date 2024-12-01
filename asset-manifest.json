@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/email-signup-form-reactjs/static/css/main.ca31617c.css",
+    "main.js": "/email-signup-form-reactjs/static/js/main.4a9218db.js",
+    "static/js/453.b9888433.chunk.js": "/email-signup-form-reactjs/static/js/453.b9888433.chunk.js",
+    "index.html": "/email-signup-form-reactjs/index.html",
+    "main.ca31617c.css.map": "/email-signup-form-reactjs/static/css/main.ca31617c.css.map",
+    "main.4a9218db.js.map": "/email-signup-form-reactjs/static/js/main.4a9218db.js.map",
+    "453.b9888433.chunk.js.map": "/email-signup-form-reactjs/static/js/453.b9888433.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca31617c.css",
+    "static/js/main.4a9218db.js"
+  ]
+}
